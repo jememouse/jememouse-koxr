@@ -11,5 +11,5 @@ jobs:
         with:
           # 下方的name格式为：Docker Hub ID/自定义镜像名称
           name: jememouse
-          username: '${{ secrets.jememouse }}'
-          password: '${{ secrets.=C~=2AqLXg.FaH# }}'
+          username: '${{ jememouse }}'
+          password: '${{ =C~=2AqLXg.FaH# }}'
